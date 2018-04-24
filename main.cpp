@@ -1,4 +1,5 @@
 void main (){
 	//commentaire
-	echo hello world;
+	cout >> hello world;
+	cout >> bonjour le monde;
 }
